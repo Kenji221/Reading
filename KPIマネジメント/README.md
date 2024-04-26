@@ -34,8 +34,46 @@ Key Performance Indicatorの役割を担っていて、実際のゴールであ�
 変数となるようなプロセスを考える。
 
 ### 目標設定の仕方とは？
-絞り込んだ変数の中ら実際に
+絞り込んだ変数の中ら実際にKGIを達成するために必要な定量的な値をKPIとする。  
+（例）KGI : 売り上げ金額（100万円）  
+　　　単価：　１０万円
+　　　受注率：30パーセント
+　　　インプレッション（KPI）: 300　((100/10) /0.3)
+###　運用できるかの観点とは？
+- 整合性 / 安定性 / 単純性
+ - 整合性：KGIが変化したときにKPIも同様に変化するのか？など
+ - 安定性：一定うあ定期的にKPIを取得することができるのか？
+ - 単純性:社員全員がわかるような指標か？
+ 
 
-### 対策の事前検討とは？
+### 対策の事前検討とは / コンセンサスとは？
+KPIに対して下振れしているときにどういう判断をするかを事前に決めておくこと
+（例）　○○月に売り上げが○○円に達さなかったら○○をする
 
-### コンセンサスとは？
+### その他
+- KPIは比率にしない方が良い。そのままの状態を保っていれば良くなってしまうため、なるべく比ではなくて定数にしたほうが良い。
+- KPIは一つに絞ったほうが良い。そして振り返りの時間を事前に設けたほうが良い。
+- 失敗の蓄積こそ「知恵」となる
+
+
+# Factfulness
+## The Gap Instinct 
+People tend to devide the world / anything into groups, as an instinct. So, some people would think that the world today is devided into two big groups. The developed and developing country. This actually worked back in 1960. However, today the world became Different.
+85% of the people in the world fall in to the developed country.  
+In a low income country, 60% of the students graduate primary school
+Only 9 percent of population in the world today lives in a low income country.
+Even in the world's most unequal country, the majority of the people belongs to the middle.
+Most of your experience comes from an experince from level 4. And the other will come from mass media where nonrepresentives extrodanary events and shuns normality. Peopple write it extremely
+
+## The negative instinct
+
+# Vocabulary
+Mortality
+chasm
+fidelity 
+utterance 
+apartheid
+benevolent
+regimes
+bureaucrats
+shuns
